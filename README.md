@@ -17,7 +17,9 @@ A simple React web application that allows users to search for a country and vie
 
 ## Clone the repository
 
+```bash
 git clone https://github.com/theheetchaudhari/atlas-country-navigator.git
 cd atlas-country-navigator
 npm install
 npm run dev
+```
